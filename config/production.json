@@ -1,0 +1,7 @@
+{
+    "server": {
+        "port":         80,
+        "forks":        1,
+        "siteUrl":      "http://localhost"
+    }
+}
