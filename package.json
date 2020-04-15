@@ -19,7 +19,7 @@
 
     "dependencies": {
         "mongoose"      : "2.5.13",
-        "mysql"         : "0.9.5",
+        "mysql"         : "2.18.1",
         "redis"         : "0.7.1",
         "express"       : "3.0.0alpha1",
         "ejs"           : "0.7.1",
