@@ -1,0 +1,14 @@
+{
+    "server": {
+        "port":         8080,
+        "forks":        1,
+        "siteUrl":      "http://crud-dev.app.com"
+    },
+    "dbMysql": {
+        "host":         "db4free.net",
+        "port":         3306,
+        "username":     "aaishika",
+        "password":     "f3900a788b4ae0bc6fe173e32451a047",
+        "dbname":       "cruddb"
+    }
+}
