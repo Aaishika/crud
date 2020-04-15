@@ -18,7 +18,7 @@
     },
 
     "dependencies": {
-        "mongoose"      : "2.5.13",
+        "mongoose"      : "5.9.9",
         "mysql"         : "0.9.5",
         "redis"         : "0.7.1",
         "express"       : "3.0.0alpha1",
